@@ -1,0 +1,1 @@
+alert("Please switch to the desktop site if you are on a mobile device");
